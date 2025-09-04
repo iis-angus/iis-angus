@@ -1,6 +1,6 @@
 # Angus Chen's Github Page
 
-**Hello there!** I'm an <img src=images/UChicago_Shield_2Color_Maroon_WhiteBorder_RGB.png width=10, height=15> **University of Chicago** 28' student majoring in CS+Math and Statistics. Technically speaking, I'm a transfer from the <img src=https://brand.illinois.edu/wp-content/uploads/2025/02/Illinois_logo_fullcolor_%C2%AE_rgb.png width=11, height=14> **University of Illinois Urbana-Champaign (UIUC)**, where I studied a bit of CS+Stats and Math before I transferred to the University of Chicago.
+**Hello there!** I'm an <img src=images/UChicago_Shield_2Color_Maroon_WhiteBorder_RGB.png width=12, height=17> **University of Chicago** 28' student majoring in CS+Math and Statistics. Technically speaking, I'm a transfer from the <img src=https://brand.illinois.edu/wp-content/uploads/2025/02/Illinois_logo_fullcolor_%C2%AE_rgb.png width=11, height=14> **University of Illinois Urbana-Champaign (UIUC)**, where I studied a bit of CS+Stats and Math before I transferred to the University of Chicago.
 
 I enjoy everything CS from the software engineering to the data science to (especially) the "mathy fun"! I'm most experienced in **Python** and **C++**, though I've worked with all sorts of code from **Java** to **HTML** and **Javascript**.
 
