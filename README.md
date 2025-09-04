@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello, I'm Angus Chen :D
+
+Univerity of Chicago 28' student majoring in CS+Math
 
 <!--
 **iis-angus/iis-angus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
