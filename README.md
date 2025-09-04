@@ -11,6 +11,10 @@ I enjoy everything CS from the software engineering to the data science to (espe
 📧[Email](angusc@uchicago.edu ) | <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png width=12 height=12> [LinkedIn](https://www.linkedin.com/in/iisangus/)
 
 
+<!-- ### University life
+
+- ~~Freshman Year~~ (Completed)
+- Sophomore Year (<- you are here) -->
 
 
 <!--
