@@ -1,6 +1,6 @@
 # Angus Chen's Github Page
 
-**Hello there!** I'm a <img src=images/UChicago_Shield_2Color_Maroon_WhiteBorder_RGB.png> University of Chicago 28' student majoring in CS+Math. I enjoy everything CS from the software engineering to the data science to (especially) the mathy fun bits!
+**Hello there!** I'm a <img src=images/UChicago_Shield_2Color_Maroon_WhiteBorder_RGB.png width=13, height=15> University of Chicago 28' student majoring in CS+Math. I enjoy everything CS from the software engineering to the data science to (especially) the mathy fun bits!
 
 You can reach me at iisangusxd@gmail.com or angusc@uchicago.edu (whichever you prefer :D)
 
