@@ -1,8 +1,15 @@
 # Angus Chen's Github Page
 
-**Hello there!** I'm a <img src=images/UChicago_Shield_2Color_Maroon_WhiteBorder_RGB.png width=13, height=15> University of Chicago 28' student majoring in CS+Math. I enjoy everything CS from the software engineering to the data science to (especially) the mathy fun bits!
+**Hello there!** I'm an <img src=images/UChicago_Shield_2Color_Maroon_WhiteBorder_RGB.png width=13, height=15> University of Chicago 28' student majoring in CS+Math. I enjoy everything CS from the software engineering to the data science to (especially) the "mathy fun"!
 
-You can reach me at iisangusxd@gmail.com or angusc@uchicago.edu (whichever you prefer :D)
+
+
+**Reach Me:**  
+Email - iisangusxd@gmail.com / angusc@uchicago.edu (whichever you prefer :D)  
+Linkedin - https://www.linkedin.com/in/iisangus/
+
+
+
 
 <!--
 **iis-angus/iis-angus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
