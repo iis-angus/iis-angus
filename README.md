@@ -1,6 +1,6 @@
 # Angus Chen's Github Page
 
-**Hello!** I'm a University of Chicago 28' student majoring in CS+Math
+**Hello!** I'm a University of Chicago 28' student majoring in CS+Math. You can reach me at iisangusxd@gmail.com or angusc@uchicago.edu if you prefer :D
 
 <!--
 **iis-angus/iis-angus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
