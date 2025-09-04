@@ -1,4 +1,4 @@
-## Hello, I'm Angus Chen :D
+## Hello!
 
 Univerity of Chicago 28' student majoring in CS+Math
 
