@@ -4,9 +4,9 @@
 
 
 
-**Reach Me:**  
-Email - iisangusxd@gmail.com / angusc@uchicago.edu (whichever you prefer :D)  
-Linkedin - https://www.linkedin.com/in/iisangus/
+### Reach me!
+
+📧[Email](angusc@uchicago.edu ) | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png)[LinkedIn](https://www.linkedin.com/in/iisangus/)
 
 
 
