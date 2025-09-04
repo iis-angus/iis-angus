@@ -8,7 +8,7 @@ I enjoy everything CS from the software engineering to the data science to (espe
 
 ### Reach me!
 
-📧[Email](angusc@uchicago.edu ) | <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png width=15 height=15> [LinkedIn](https://www.linkedin.com/in/iisangus/)
+📧[Email](angusc@uchicago.edu ) | <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png width=12 height=12> [LinkedIn](https://www.linkedin.com/in/iisangus/)
 
 
 
